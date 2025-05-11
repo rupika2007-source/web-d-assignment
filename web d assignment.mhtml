@@ -1,0 +1,244 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/admin/Downloads/rupjava.html
+Subject: All HTML Features
+Date: Sun, 11 May 2025 08:09:24 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--zblZa7rA1RQbhN3JbZU2JKbqHvVJCnwQSEUGYIJVKY----"
+
+
+------MultipartBoundary--zblZa7rA1RQbhN3JbZU2JKbqHvVJCnwQSEUGYIJVKY----
+Content-Type: text/html
+Content-ID: <frame-188E99EC75DC9A33BB5D13D78DAF0CC1@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/admin/Downloads/rupjava.html
+
+<html lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/h=
+tml; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"ci=
+d:css-cb9ce578-ab85-47d8-9d54-5713126742fb@mhtml.blink" /></head><body>Name=
+ : Rupika chalamalla=20
+Section: B
+
+
+
+ =20
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+  <title>All HTML Features</title>
+ =20
+
+
+  <h1>All HTML Features in One Page</h1>
+
+  <div class=3D"grid-container">
+
+    <!-- 1. Button Color Toggle -->
+    <section>
+      <h2>1. Button Color Toggle</h2>
+      <button class=3D"btn">Toggle Color</button>
+    </section>
+
+    <!-- 2. Variables & Data Types -->
+    <section>
+      <h2>2. Variables &amp; Data Types</h2>
+      <p>Check the console for variable output.</p>
+     =20
+    </section>
+
+    <!-- 3. Simple Calculator -->
+    <section>
+      <h2>3. Simple Calculator</h2>
+      <input id=3D"num1" type=3D"number" placeholder=3D"First number">
+      <input id=3D"num2" type=3D"number" placeholder=3D"Second number">
+      <select id=3D"operator">
+        <option>+</option>
+        <option>-</option>
+        <option>*</option>
+        <option>/</option>
+      </select>
+      <button class=3D"btn">Calculate</button>
+      <p id=3D"calcResult"></p>
+     =20
+    </section>
+
+    <!-- 4. Digital Clock -->
+    <section>
+      <h2>4. Digital Clock</h2>
+      <h3 id=3D"clock">8:09:24 AM</h3>
+     =20
+    </section>
+
+    <!-- 5. Light Bulb Toggle -->
+    <section>
+      <h2>5. Light Bulb Toggle</h2>
+      <img id=3D"bulb" src=3D"https://www.w3schools.com/js/pic_bulboff.gif"=
+>
+      <br>
+      <button class=3D"btn">Toggle Bulb</button>
+     =20
+    </section>
+
+    <!-- 6. Show/Hide Password -->
+    <section>
+      <h2>6. Show/Hide Password</h2>
+      <input type=3D"password" id=3D"pwd" placeholder=3D"Enter password">
+      <button class=3D"btn">Show/Hide</button>
+     =20
+    </section>
+
+    <!-- 7. Registration Form -->
+    <section>
+      <h2>7. Registration Form</h2>
+      <form>
+        <input type=3D"text" placeholder=3D"Name" required=3D"">
+        <input type=3D"email" placeholder=3D"Email" required=3D"">
+        <button class=3D"btn" type=3D"submit">Register</button>
+      </form>
+    </section>
+
+    <!-- 8. Journal App -->
+    <section>
+      <h2>8. Journal App</h2>
+      <textarea id=3D"journal" placeholder=3D"Write something..."></textare=
+a>
+      <button class=3D"btn">Save</button>
+      <p id=3D"savedText"></p>
+     =20
+    </section>
+
+    <!-- 9. User Preferences -->
+    <section>
+      <h2>9. User Preferences</h2>
+      <label>Select Theme:
+        <select>
+          <option value=3D"light">Light</option>
+          <option value=3D"dark">Dark</option>
+        </select>
+      </label>
+     =20
+    </section>
+
+    <!-- 10. Feedback Form -->
+    <section>
+      <h2>10. Feedback Form</h2>
+      <textarea id=3D"feedback" placeholder=3D"Your feedback..."></textarea=
+>
+      <button class=3D"btn">Submit</button>
+      <p id=3D"feedbackMessage"></p>
+     =20
+    </section>
+
+    <!-- 11. Placeholder -->
+    <section>
+      <h2>11. Placeholder Section</h2>
+      <p>More features coming soon!</p>
+    </section>
+
+    <!-- 12. Counter App -->
+    <section>
+      <h2>12. Counter App</h2>
+      <div id=3D"counter">0</div>
+      <button class=3D"increase">Increase</button>
+      <button class=3D"decrease">Decrease</button>
+      <button class=3D"reset">Reset</button>
+     =20
+    </section>
+
+  </div>
+
+
+</body></html>
+------MultipartBoundary--zblZa7rA1RQbhN3JbZU2JKbqHvVJCnwQSEUGYIJVKY----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.w3schools.com/js/pic_bulboff.gif
+
+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
+
+------MultipartBoundary--zblZa7rA1RQbhN3JbZU2JKbqHvVJCnwQSEUGYIJVKY----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-cb9ce578-ab85-47d8-9d54-5713126742fb@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; backgr=
+ound: linear-gradient(to right, rgb(255, 236, 210), rgb(252, 182, 159)); ma=
+rgin: 0px; padding: 20px; color: rgb(51, 51, 51); }
+
+h1 { text-align: center; color: rgb(44, 62, 80); }
+
+.grid-container { display: grid; grid-template-columns: 1fr 1fr; gap: 20px;=
+ max-width: 1200px; margin: auto; }
+
+section { background: rgb(255, 255, 255); padding: 20px; border-radius: 15p=
+x; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px; }
+
+h2 { color: rgb(41, 128, 185); }
+
+input, button, select { margin: 5px; padding: 10px; font-size: 16px; border=
+-radius: 5px; border: 1px solid rgb(204, 204, 204); }
+
+.btn { cursor: pointer; background-color: rgb(52, 152, 219); color: white; =
+border: none; }
+
+.btn:hover { background-color: rgb(41, 128, 185); }
+
+textarea { width: 100%; height: 100px; }
+
+#bulb { width: 50px; height: 100px; }
+
+#counter { font-size: 50px; font-weight: bold; margin: 20px; }
+
+.increase { background-color: green; color: white; }
+
+.decrease { background-color: red; color: white; }
+
+.reset { background-color: gray; color: white; }
+
+.increase:hover, .decrease:hover, .reset:hover { opacity: 0.8; }
+------MultipartBoundary--zblZa7rA1RQbhN3JbZU2JKbqHvVJCnwQSEUGYIJVKY------
